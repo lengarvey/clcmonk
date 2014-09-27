@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: clcmonk
+## Notes: monk module intended for use with clcinfo
+## Version: 0.0.1
+
+windwalker.lua
+brewmaster.lua
